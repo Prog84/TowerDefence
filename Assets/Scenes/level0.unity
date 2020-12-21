@@ -3812,7 +3812,7 @@ MonoBehaviour:
   - {fileID: 1385860010}
   - {fileID: 1015623104}
   _currentMana: 0
-  _speedMana: 25
+  _speedMana: 20
   _delay: 5
 --- !u!1 &1795392262
 GameObject:

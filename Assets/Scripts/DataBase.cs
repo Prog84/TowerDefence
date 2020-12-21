@@ -42,7 +42,6 @@ public class DataBase : MonoBehaviour
 
     private void Awake()
     {
-        PlayerPrefs.DeleteAll();
         Instance = this;
 
         _activePartyCards = new List<Card>();

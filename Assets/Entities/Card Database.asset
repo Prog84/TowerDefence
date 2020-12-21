@@ -15,7 +15,6 @@ MonoBehaviour:
   _cards:
   - _id: 0
     _cardName: "\u0411\u044B\u043A"
-    _description: "\u0411\u044B\u043A"
     _icon: {fileID: 21300000, guid: fbb534d4f48c8684a964de9b70de0e8a, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: d823d5f67464be04f96fa665c27a1f9a, type: 3}
     _prefab: {fileID: 8623037551856924366, guid: e0f50b0dd7768f242844c1c8d2825307, type: 3}
@@ -26,7 +25,6 @@ MonoBehaviour:
     _price: 100
   - _id: 1
     _cardName: "\u0412\u043E\u043B\u043A"
-    _description: "\u0417\u043B\u043E\u0439 \u0432\u043E\u043B\u043A"
     _icon: {fileID: 21300000, guid: b012b528a536df249ac3899d31b2a5fc, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 0989b98fc3678dd49b6b7afeed260b94, type: 3}
     _prefab: {fileID: 3272886846297375714, guid: 54182c37707dd7a4c8c27950f0f94d39, type: 3}
@@ -37,7 +35,6 @@ MonoBehaviour:
     _price: 200
   - _id: 2
     _cardName: "\u0421\u043A\u0435\u043B\u0435\u0442"
-    _description: "\u0421\u043A\u0435\u043B\u0435\u0442 \u0432\u043E\u0438\u043D"
     _icon: {fileID: 21300000, guid: f9560d36c3c3e9542aa9fbe8cc019527, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 44c6ae0dfe5a2d54bbd88f91eaf8eb7c, type: 3}
     _prefab: {fileID: 8704868422562031118, guid: 32e13536eeacc024581769aa4d4ea7b9, type: 3}
@@ -48,7 +45,6 @@ MonoBehaviour:
     _price: 300
   - _id: 3
     _cardName: "\u0412\u0441\u0430\u0434\u043D\u0438\u043A"
-    _description: "\u0421\u043A\u0435\u043B\u0435\u0442 \u0432\u0441\u0430\u0434\u043D\u0438\u043A"
     _icon: {fileID: 21300000, guid: a81e8ab9dd5e37f439ac744d7d68ec28, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: db26771cee4a45341bba129000c7e11c, type: 3}
     _prefab: {fileID: 7758039184616898348, guid: 89490d7d8b0170a4d8bf020717a1cc19, type: 3}
@@ -59,7 +55,6 @@ MonoBehaviour:
     _price: 400
   - _id: 4
     _cardName: "\u041E\u0440\u043A"
-    _description: "\u0417\u043B\u043E\u0431\u043D\u044B\u0439 \u043E\u0440\u043A"
     _icon: {fileID: 21300000, guid: ca4466704ffd87f428a5e5b1ac355b72, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 5fa69523ddd4724469275ab8f1139c26, type: 3}
     _prefab: {fileID: 8907906520143653599, guid: 65fba1d0b547c4e4cbc0a802b0b95643, type: 3}
@@ -70,7 +65,6 @@ MonoBehaviour:
     _price: 500
   - _id: 5
     _cardName: "\u0417\u0435\u0432\u0441"
-    _description: "\u0421\u0438\u043B\u044C\u043D\u044B\u0439 \u0431\u043E\u0433"
     _icon: {fileID: 21300000, guid: 6dc4312005d87774d820040076cb9ff2, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 5a3d0d90bf9498f48be2361cd6ff148e, type: 3}
     _prefab: {fileID: 2561227701440745527, guid: 36c075830f62e1f41a26be74102def61, type: 3}
@@ -81,7 +75,6 @@ MonoBehaviour:
     _price: 600
   - _id: 6
     _cardName: "\u0420\u044B\u0446\u0430\u0440\u044C"
-    _description: "\u0421\u0438\u043B\u044C\u043D\u044B\u0439 \u0440\u044B\u0446\u0430\u0440\u044C"
     _icon: {fileID: 21300000, guid: 7cc9f3bdcf5d99446aa9caeb846a31de, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 6792c4af2638f1046ae8ec9ab3f3cf7a, type: 3}
     _prefab: {fileID: 2919986140698282648, guid: 7379ad6db2896234086a3d9fba0c945a, type: 3}
@@ -92,7 +85,6 @@ MonoBehaviour:
     _price: 700
   - _id: 7
     _cardName: "\u041A\u043E\u043B\u0434\u0443\u043D"
-    _description: "\u041C\u043E\u0449\u043D\u044B\u0439 \u043A\u043E\u043B\u0434\u0443\u043D"
     _icon: {fileID: 21300000, guid: 3263d87ff5481a240915176c218fc4e7, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: f10890b3d27b0bd44922ff8cbd939981, type: 3}
     _prefab: {fileID: 1954105385169702941, guid: 503276fea4b8d83418910e083a17bdc1, type: 3}
@@ -103,7 +95,6 @@ MonoBehaviour:
     _price: 800
   - _id: 8
     _cardName: "\u041B\u0438\u0447"
-    _description: "\u0422\u0435\u043C\u043D\u044B\u0439 \u043B\u0438\u0447"
     _icon: {fileID: 21300000, guid: ab1b8be2e64853c42b2022219c20c778, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 8ba34e187e5c12f4083cf75f247cc58d, type: 3}
     _prefab: {fileID: 6050615606206404678, guid: b6623318727d708419e3e42de6a1c9a2, type: 3}
@@ -114,7 +105,6 @@ MonoBehaviour:
     _price: 900
   - _id: 9
     _cardName: "\u041D\u043E\u0441\u043E\u0440\u043E\u0433"
-    _description: "\u0417\u0434\u043E\u0440\u043E\u0432\u044B\u0439 \u043D\u043E\u0441\u043E\u0440\u043E\u0433"
     _icon: {fileID: 21300000, guid: d1de23ce33b84dd4f9d9584ab55b3660, type: 3}
     _cardSprite: {fileID: -1310404032529668550, guid: 7e911dc6cfced8e4ebab22e37bb839e1, type: 3}
     _prefab: {fileID: 2427852030803982923, guid: 8f6e908a2c909e54a932dac090117919, type: 3}
@@ -122,16 +112,15 @@ MonoBehaviour:
     _health: 50
     _speed: 1
     _mana: 80
-    _price: 1000
+    _price: 500
   _currentCard:
-    _id: 6
-    _cardName: "\u0420\u044B\u0446\u0430\u0440\u044C"
-    _description: "\u0421\u0438\u043B\u044C\u043D\u044B\u0439 \u0440\u044B\u0446\u0430\u0440\u044C"
-    _icon: {fileID: 21300000, guid: 7cc9f3bdcf5d99446aa9caeb846a31de, type: 3}
-    _cardSprite: {fileID: -1310404032529668550, guid: 6792c4af2638f1046ae8ec9ab3f3cf7a, type: 3}
-    _prefab: {fileID: 2919986140698282648, guid: 7379ad6db2896234086a3d9fba0c945a, type: 3}
-    _attack: 10
+    _id: 9
+    _cardName: "\u041D\u043E\u0441\u043E\u0440\u043E\u0433"
+    _icon: {fileID: 21300000, guid: d1de23ce33b84dd4f9d9584ab55b3660, type: 3}
+    _cardSprite: {fileID: -1310404032529668550, guid: 7e911dc6cfced8e4ebab22e37bb839e1, type: 3}
+    _prefab: {fileID: 2427852030803982923, guid: 8f6e908a2c909e54a932dac090117919, type: 3}
+    _attack: 19
     _health: 50
     _speed: 1
-    _mana: 75
-    _price: 700
+    _mana: 80
+    _price: 500
